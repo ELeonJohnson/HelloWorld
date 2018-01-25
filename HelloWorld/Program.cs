@@ -277,10 +277,14 @@ namespace HelloWorld
 
             //Example of for loop
 
-            for (int i = 0; i < foodAmount.Length; i++)
-            {
-                Console.WriteLine(i);
-            }
+            //for (int i = 0; i < foodAmount.Length; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+
+
+
 
             
 
